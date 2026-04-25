@@ -27,7 +27,6 @@ Currently learning: **JavaScript** · **Go** · **C++** (standard & embedded) ·
 **Primary**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Backend / Infra**
@@ -45,6 +44,7 @@ Currently learning: **JavaScript** · **Go** · **C++** (standard & embedded) ·
 **Currently Learning**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ---
@@ -77,6 +77,7 @@ My personal configuration files — the exact setup I use day to day. Shell, edi
 |---|---|---|
 | **Nativity** | WhatsApp automation bot | 🚧 In Progress |
 | **Cuber** | Rubik's cube solving helper | 🚧 In Progress |
+| **Zenith** | Custom GSI modelled after Samsung's One UI | Research and Development|
 
 ---
 
@@ -96,6 +97,6 @@ My personal configuration files — the exact setup I use day to day. Shell, edi
 
 📬 Reach me at **ebubechukwuekeugo@gmail.com**
 
-*Fun fact: I use Arch Linux btw* 🐧
+*Fun fact: I use Arch btw* 🐧
 
 </div>
